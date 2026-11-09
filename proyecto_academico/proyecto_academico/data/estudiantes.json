@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jorge El Curioso",
+    "apellido": "Peruano",
+    "email": "aaaa@yahoo.com",
+    "carnet": "EST0934204934Ç",
+    "carrera": "Turismo"
+  },
+  {
+    "id": 2,
+    "nombre": "Aaa",
+    "apellido": "Sfvd",
+    "email": "swffr@oe04030.com",
+    "carnet": "FFFF3033040404040",
+    "carrera": "Software"
+  },
+  {
+    "id": 3,
+    "nombre": "Elar",
+    "apellido": "Tista",
+    "email": "jajajajaj@gmail.com",
+    "carnet": "EST034049430",
+    "carrera": "Artes"
+  },
+  {
+    "id": 4,
+    "nombre": "Estudiante De",
+    "apellido": "Prueba",
+    "email": "placeholder@sample.com",
+    "carnet": "EST0000000",
+    "carrera": "Pruebas"
+  }
+]

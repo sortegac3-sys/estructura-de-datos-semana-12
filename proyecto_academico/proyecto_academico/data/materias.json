@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Artística",
+    "codigo": "MAT001",
+    "creditos": 1,
+    "cupos": 3
+  },
+  {
+    "id": 2,
+    "nombre": "Maestría Videojueguíl",
+    "codigo": "MAT777",
+    "creditos": 10,
+    "cupos": 30
+  },
+  {
+    "id": 3,
+    "nombre": "Software",
+    "codigo": "MAT002",
+    "creditos": 5,
+    "cupos": 24
+  },
+  {
+    "id": 4,
+    "nombre": "Diseño Gráfico",
+    "codigo": "MAT003",
+    "creditos": 2,
+    "cupos": 0
+  }
+]
